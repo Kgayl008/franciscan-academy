@@ -27,6 +27,11 @@ export default function RootLayout({
     </html>
   );
 }
+
+export const metadata = {
+  title: "The Franciscan Academy",
+  description: "A Catholic Primary School in Jamaica",
+};
 // import type { Metadata } from "next";
 // import { Geist, Geist_Mono } from "next/font/google";
 // import "./globals.css";
