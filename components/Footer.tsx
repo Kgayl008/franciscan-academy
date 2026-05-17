@@ -72,7 +72,7 @@ export default function Footer() {
         (Entrance on Anderson Cl.)
       </span>
     </p>
-            <p>Kingston, Jamaica</p>
+            <p>Jamaica</p>
           </div>
         </div>
 
