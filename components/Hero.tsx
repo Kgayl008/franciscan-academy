@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative overflow-hidden min-h-screen"
+      className="relative overflow-hidden min-h-screen md:min-h-180"
     >
       <img
         src="/images/hero.jpg"
@@ -12,7 +12,7 @@ export default function Hero() {
 
       <div className="absolute inset-0 bg-linear-to-r from-[#06291f]/95 via-[#0b3d2e]/70 to-transparent" />
 
-      <div className="relative z-10 mx-auto flex min-h-screen max-w-7xl items-center px-5 pt-28 pb-16 sm:px-6 md:px-8">
+      <div className="relative z-10 mx-auto flex min-h-screen max-w-7xl items-center px-5 pt-28 pb-16 sm:px-6 md:min-h-180 md:px-8">
         <div className="max-w-2xl text-white">
           <p className="mb-4 text-xs font-bold uppercase tracking-[0.25em] text-[#d4a73c] sm:text-sm">
             Welcome to our school
