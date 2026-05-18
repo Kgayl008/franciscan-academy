@@ -26,7 +26,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center border-b pb-8 text-center md:border-b-0 md:border-r md:pb-0">
             <img src="/images/pray.png" className="h-35 w-35 object-contain" />
             <h3 className="serif mt-3 text-2xl font-bold text-[#0b3d2e]">
-              Catholic Values
+              Christian Values
             </h3>
             <p className="text-sm">Respect & Integrity</p>
           </div>

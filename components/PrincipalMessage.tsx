@@ -24,7 +24,7 @@ export default function PrincipalMessage() {
 
           <p className="max-w-4xl text-lg italic leading-8 text-white/90 md:text-xl md:leading-10">
             “Welcome to our school family! We are committed to providing a safe,
-            nurturing, and high-quality education rooted in our Catholic faith.
+            nurturing, and high-quality education rooted in our Christian faith.
             Together, we shape hearts, minds, and futures.”
           </p>
         </div>

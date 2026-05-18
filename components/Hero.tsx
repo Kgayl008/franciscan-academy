@@ -30,7 +30,7 @@ export default function Hero() {
           <div className="my-6 h-0.5 w-40 bg-[#d4a73c] sm:w-64 md:w-96" />
 
           <p className="max-w-xl text-base leading-7 text-white/90 sm:text-lg sm:leading-8 md:text-xl">
-            A Catholic primary school community committed to academic
+            A Christian primary school community committed to academic
             excellence, moral values, and spiritual growth.
           </p>
 
