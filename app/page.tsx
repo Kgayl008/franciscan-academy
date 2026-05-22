@@ -78,17 +78,17 @@ export default function Home() {
 
           <div className="grid gap-4 md:grid-cols-2">
             <img
-              src="/images/about-main.jpg"
+              src="/images/church.jpg"
               alt="Students learning"
               className="h-64 w-full rounded-2xl border border-[#0b3d2e]/20 object-cover shadow-[0_12px_40px_rgba(11,61,46,0.22)] transition duration-500 hover:-translate-y-2 hover:shadow-[0_18px_55px_rgba(11,61,46,0.32)] md:col-span-2"
             />
             <img
-              src="/images/about-friends.jpg"
+              src="/images/sports.jpg"
               alt="Students smiling"
               className="h-48 w-full rounded-2xl border border-[#0b3d2e]/20 object-cover shadow-[0_12px_40px_rgba(11,61,46,0.22)] transition duration-500 hover:-translate-y-2 hover:shadow-[0_18px_55px_rgba(11,61,46,0.32)]"
             />
             <img
-              src="/images/project.jpg"
+              src="/images/gallery-13.jpg"
               className="h-48 w-full rounded-2xl border border-[#0b3d2e]/20 object-cover shadow-[0_12px_40px_rgba(11,61,46,0.22)] transition duration-500 hover:-translate-y-2 hover:shadow-[0_18px_55px_rgba(11,61,46,0.32)]"
             />
           </div>

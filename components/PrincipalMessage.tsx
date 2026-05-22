@@ -4,7 +4,7 @@ export default function PrincipalMessage() {
       <div className="mx-auto grid max-w-7xl gap-10 md:grid-cols-[260px_1fr] md:items-center">
         <div className="mx-auto w-full max-w-65 overflow-hidden rounded-xl border border-[#d4a73c]/50 bg-[#06291f] shadow-xl">
           <img
-            src="/images/alex.png"
+            src="/images/gallery-14.jpg"
             alt="Principal"
             className="aspect-4/5 w-full object-cover object-top"
           />
